@@ -1,0 +1,162 @@
+/* area */
+*{
+    margin: 0px;
+    padding: 0px auto;
+}
+.offer-section{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+/* font */
+.open-sans-first {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.open-sans-inter{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* share style */
+.red{
+    color: #FF0000;
+}
+.white{
+    color: #FFFFFF;
+}
+.dark1{
+    color: #070211;
+}
+.second-bg{
+    background-color: #e3afaf;
+}
+/* header styles */
+.header-title{
+    text-align: center;
+    padding: 177px 344px;
+    
+}
+.header-title1{
+    font-size: 32px;
+    font-weight: 400px;  
+}
+.header-title2{
+    font-size: 72px;
+    font-weight: 900px;
+}
+/* background */
+.background{
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px;
+    border-radius: 16px;  
+}
+/* offer section */
+.offer{
+    text-align: center;
+}
+.offer-title{
+    font-size: 88px;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.offer-des{
+    font-size: 24px;
+    font-weight: 500px;
+    padding-bottom: 16px;
+}
+.offer-title2{
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 48px;
+}
+.new-year-photo{
+    margin-left: 200px;
+    margin-bottom: 120px;
+}
+/* welcome section */
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    text-align: left;
+    padding-left: 120px;
+    padding-top: 140px;
+}
+.welcome-title{
+    font-size: 64px;
+    font-weight: 900px;
+    padding-bottom: 24px;
+}
+.welcome-des{
+    font-size: 18px;
+    font-weight: 400px;
+    padding-bottom: 32px;
+}
+.content a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold; 
+    padding-bottom: 128px;
+}
+/* welcome section background */
+.container{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320;
+    height: 600;
+    border-radius: 16px;
+    margin:0px 140px;
+}
+.wcl-img{
+    padding-right: 70px;
+    padding-top: 82px;
+    padding-bottom: 53px;
+    margin-bottom: 120px;
+}
+/* time section */
+.time-section{
+    text-align: center;
+    margin: 0px 140px;
+}
+.time-content{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500px;
+    padding: 130px 330px 40px 330px; 
+    
+}
+.time-section button{
+    
+    padding:16px 32px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    background-color: #FF0000;
+    margin-bottom: 110px;
+}
+/* coming soon section style*/
+.coming-container{
+    display: flex;
+   max-width: 1320px;
+   margin: 120px auto;
+   gap: 70px;
+   align-items: center;
+}
+.coming2 img{
+    
+    border: 10px solid #FF0000;
+    padding: 49px;
+    border-radius: 400px;
+}
